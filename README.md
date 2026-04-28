@@ -107,5 +107,5 @@ SubnetCalculatorApp/
 ## 6. 技术栈
 *   **语言**: Swift 5
 *   **UI 框架**: SwiftUI
-*   **平台**: macOS (也可适配 iPadOS)
+*   **平台**: macOS
 *   **设计风格**: macOS Native (半透明背景、圆角、Monospaced 字体)
