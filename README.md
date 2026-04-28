@@ -1,4 +1,4 @@
-# SubMask
+# SubMask for mac 子网掩码计算器
 macOS计算子网掩码
 # 子网计算器应用架构文档
 
